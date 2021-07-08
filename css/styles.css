@@ -68,3 +68,17 @@
     padding-top: 21px;
     height: 98px;
 }
+
+/* Footer */
+.footer {
+    margin-top: 94px;
+    width: 100%;
+}
+
+.footer__parrafo {
+    text-align: center;
+    font-size: 20px;
+    font-family: var(--font-primary);
+    font-weight: 300;
+    margin-bottom: 30px;
+}
